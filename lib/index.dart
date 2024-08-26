@@ -9,7 +9,7 @@ export 'package:camerawesome/camerawesome_plugin.dart';
 export 'package:camerawesome/pigeon.dart';
 export 'package:equatable/equatable.dart';
 export 'package:flutter/foundation.dart';
-export 'package:flutter/material.dart';
+export 'package:flutter/material.dart' hide CarouselController;
 export 'package:google_mlkit_face_detection/google_mlkit_face_detection.dart';
 export 'package:lottie/lottie.dart';
 export 'package:path_provider/path_provider.dart';
