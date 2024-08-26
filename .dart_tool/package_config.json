@@ -63,13 +63,13 @@
     },
     {
       "name": "camerawesome",
-      "rootUri": "file:///home/user/.pub-cache/hosted/pub.dev/camerawesome-2.1.0",
+      "rootUri": "file:///home/user/.pub-cache/hosted/pub.dev/camerawesome-1.4.0",
       "packageUri": "lib/",
-      "languageVersion": "3.2"
+      "languageVersion": "2.17"
     },
     {
       "name": "carousel_slider",
-      "rootUri": "file:///home/user/.pub-cache/hosted/pub.dev/carousel_slider-5.0.0",
+      "rootUri": "file:///home/user/.pub-cache/hosted/pub.dev/carousel_slider-4.2.1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -309,7 +309,7 @@
     },
     {
       "name": "rxdart",
-      "rootUri": "file:///home/user/.pub-cache/hosted/pub.dev/rxdart-0.28.0",
+      "rootUri": "file:///home/user/.pub-cache/hosted/pub.dev/rxdart-0.27.7",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -416,7 +416,7 @@
       "languageVersion": "2.18"
     }
   ],
-  "generated": "2024-08-26T16:02:48.340956Z",
+  "generated": "2024-08-26T16:08:44.083233Z",
   "generator": "pub",
   "generatorVersion": "3.5.1",
   "flutterRoot": "file:///home/user/flutter",
