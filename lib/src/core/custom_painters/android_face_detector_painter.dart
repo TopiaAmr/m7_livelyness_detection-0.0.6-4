@@ -1,6 +1,7 @@
 import 'dart:math' as math;
 import 'dart:ui' as ui;
 
+import 'package:camerawesome/pigeon.dart' show PreviewSize;
 import 'package:m7_livelyness_detection/index.dart';
 
 class M7AndroidFaceDetectorPainter extends CustomPainter {

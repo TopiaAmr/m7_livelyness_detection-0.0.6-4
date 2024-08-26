@@ -1,3 +1,5 @@
+import 'package:camerawesome/camerawesome_plugin.dart'
+    show AnalysisImage, InputAnalysisImageFormat;
 import 'package:m7_livelyness_detection/index.dart';
 
 extension MLKitUtils on AnalysisImage {

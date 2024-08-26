@@ -1,3 +1,5 @@
+import 'package:camerawesome/camerawesome_plugin.dart' show CameraState, Sensors;
+import 'package:camerawesome/pigeon.dart' show PreviewSize;
 import 'package:m7_livelyness_detection/index.dart';
 
 class M7PreviewDecoratorWidget extends StatelessWidget {
